@@ -46,7 +46,7 @@ cd pixel-manipulation-image-encryption
 
 3️⃣ Run the script
 
-python3 image_xor.py
+python3 image_encryp.py
 
 🔑 How It Works
 
